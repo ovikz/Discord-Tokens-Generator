@@ -1,0 +1,16 @@
+requests
+shaders
+httpx
+opencv-python
+pysocks
+brotli
+tensorflow
+imagehash
+matplotlib
+pystyle
+colorama
+pytweening
+keyboard
+websocket
+discord
+selenium
